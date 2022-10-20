@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/KIM/AndroidStudioProjects/mysololifejava/app/src/main/res/layout/activity_main.xml" value="0.34629629629629627" />
+        <entry key="..\:/Users/KIM/AndroidStudioProjects/mysololifejava/app/src/main/res/layout/fragment_book_mark.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/KIM/AndroidStudioProjects/mysololifejava/app/src/main/res/layout/fragment_main.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/KIM/AndroidStudioProjects/mysololifejava/app/src/main/res/layout/fragment_store.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/KIM/AndroidStudioProjects/mysololifejava/app/src/main/res/layout/fragment_talk.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/KIM/AndroidStudioProjects/mysololifejava/app/src/main/res/layout/fragment_tip.xml" value="0.38645833333333335" />
         <entry key="..\:/web_14_android/work/MySoleLifeJava/app/src/main/res/drawable/background_radius.xml" value="0.1075" />
         <entry key="..\:/web_14_android/work/MySoleLifeJava/app/src/main/res/layout/activity_join.xml" value="0.25885416666666666" />
         <entry key="..\:/web_14_android/work/MySoleLifeJava/app/src/main/res/layout/activity_login.xml" value="0.25885416666666666" />

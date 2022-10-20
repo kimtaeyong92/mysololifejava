@@ -48,11 +48,11 @@ public class LoginActivity extends AppCompatActivity {
             String password = loginPasswordArea.getText().toString();
 
             if( email.isEmpty()){
-                Toast.makeText(getApplicationContext(), "E-Mail을 입력해주세요",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "E-Mail 을 입력해주세요",Toast.LENGTH_SHORT).show();
             }
 
             if( password.isEmpty() ){
-                Toast.makeText(getApplicationContext(), "Password를 입력해주세요",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "Password 를 입력해주세요",Toast.LENGTH_SHORT).show();
             }
 
             signIn(email,password);
