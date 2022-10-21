@@ -24,51 +24,51 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="60dp"
-        android:layout_marginBottom="80dp"
+        android:layout_marginBottom="75dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-
     <LinearLayout
+        android:id="@+id/linearLayout"
         android:layout_width="match_parent"
         android:layout_height="70dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent">
 
         <ImageView
             android:id="@+id/bottomBtnhome"
-            android:src="@drawable/bottom_hometap"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:src="@drawable/bottom_hometap" />
 
         <ImageView
             android:id="@+id/bottomBtntalk"
-            android:src="@drawable/bottom_talk"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:src="@drawable/bottom_talk" />
 
         <ImageView
             android:id="@+id/bottomBtntip"
-            android:src="@drawable/bottom_goodtip"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:src="@drawable/bottom_goodtip" />
 
         <ImageView
             android:id="@+id/bottomBtnmark"
-            android:src="@drawable/bottom_bookmark"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:src="@drawable/bottom_bookmark" />
 
         <ImageView
             android:id="@+id/bottomBtnstore"
-            android:src="@drawable/bottom_store"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:src="@drawable/bottom_store" />
 
     </LinearLayout>
 

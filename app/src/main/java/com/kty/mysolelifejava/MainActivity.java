@@ -69,10 +69,12 @@ public class MainActivity extends AppCompatActivity {
                     finish();
                     break;
 
+                case R.id.bottomBtnhome:
+                    getSupportFragmentManager().beginTransaction().replace(R.id.fragmentArea, mainFragment).commit();
+                    break;
 
                 case R.id.bottomBtntalk:
                     getSupportFragmentManager().beginTransaction().replace(R.id.fragmentArea, talkFragment).commit();
-                    //transaction.replace(R.id.fragmentArea, talkFragment).commit();
                     break;
 
                 case R.id.bottomBtntip:
