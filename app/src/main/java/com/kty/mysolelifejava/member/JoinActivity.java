@@ -13,7 +13,7 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
-import com.kty.mysolelifejava.FBRef;
+import com.kty.mysolelifejava.fb.FBRef;
 import com.kty.mysolelifejava.R;
 
 import java.util.regex.Matcher;

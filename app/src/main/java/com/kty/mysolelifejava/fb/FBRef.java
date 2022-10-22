@@ -1,4 +1,4 @@
-package com.kty.mysolelifejava;
+package com.kty.mysolelifejava.fb;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
